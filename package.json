@@ -1,7 +1,7 @@
 {
-  "name": "github-readme-stats",
+  "name": "statix",
   "version": "1.0.0",
-  "description": "Dynamically generate stats for your github readmes",
+  "description": "Stats generating engine for GitHub",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -17,7 +17,7 @@
     "format:check": "prettier --check .",
     "prepare": "husky install"
   },
-  "author": "Anurag Hazra",
+  "author": "Shroud",
   "license": "MIT",
   "devDependencies": {
     "@actions/core": "^1.9.1",
